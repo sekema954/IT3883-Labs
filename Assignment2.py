@@ -31,6 +31,6 @@ def process_student_grades(filename):
         print(f"{student[0]} {student[1]:.2f}")
 
 
-# Example usage
+# get input text & process it
 filename = "/Users/admin/Downloads/inputs.txt"
 process_student_grades(filename)
